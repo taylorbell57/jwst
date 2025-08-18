@@ -1,3 +1,4 @@
+import numpy as np
 from stdatamodels.jwst.datamodels import CubeModel, GainModel
 
 from jwst.lib import reffile_utils
